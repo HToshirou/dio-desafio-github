@@ -1,2 +1,3 @@
 # dio-desafio-github
-projeto criar github
+
+Repositório criado para desafio da dio
